@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer and Web3 Developer from Malaysia</h3>  
 
 <p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=jnhng0205&label=Profile%20views&color=0e75b6&style=flat" alt="jnhng0205" />  
+  <img src="https://komarev.com/ghpvc/?username=tim1293&label=Profile%20views&color=0e75b6&style=flat" alt="tim1293" />  
 </p>  
 
 - 🔭 I’m currently building a ton of stuffs
