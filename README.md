@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teh Jun Heng</h1>  
 <h3 align="center">A Software Engineer and Web3 Developer from Malaysia</h3>  
 
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=tim1293&label=Profile%20views&color=0e75b6&style=flat" alt="tim1293" />  
-</p>  
-
 - 🔭 I’m currently building a ton of stuffs
 - 💬 Ask me about **Web3 and Blockchain**  
 - 📫 How to reach me **heng.teh0205@gmail.com**  
